@@ -31,5 +31,10 @@ xdag俗称大哥币，是专门用cpu来挖矿的
 然后你可以在这个地址：https://xdag.org/zh/miners?clear_filter=1
 输入你的xdag钱包地址，就可以看到你的算力和收益
 
+## Donations
+If you'd like to use xdag_mac, please consider donating
+xdag address:
+oEAFvUJnswV9hz+vzqY4Gvw3Qrv75S5p
+thinks
 
 
